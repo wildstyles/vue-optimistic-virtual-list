@@ -15,6 +15,7 @@
   "dependencies": {
     "@faker-js/faker": "^9.0.3",
     "@tanstack/vue-query": "^5.59.13",
+    "mock-socket": "^9.3.1",
     "pinia": "^2.2.4",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5"
